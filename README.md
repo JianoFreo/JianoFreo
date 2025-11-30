@@ -1,6 +1,6 @@
 ## Hi! I'm Jiano Freo
 
-(https://github-readme-stats.vercel.app/api?username=JianoFreo)](https://github.com/JianoFreo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JianoFreo)](https://github.com/JianoFreo/github-readme-stats)
 <!--
 **JianoFreo/JianoFreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
