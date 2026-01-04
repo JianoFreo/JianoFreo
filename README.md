@@ -1,9 +1,27 @@
-## Hi! I'm Jiano Freo
-
+## Hi! I'm Jiano Freo<div align="center">
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jianofreo&theme=dracula&v=4)
+
+</td>
+<td align="center">
+
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jianofreo&theme=dracula&v=2)
 
-# Tech Stack
+</td>
+</tr>
+</table>
+
+
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  
 ### Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -31,6 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
+</td>
+<td align="center">
 
 ### Machine Learning / AI
 <p align="left">
@@ -41,12 +61,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
 
 
-### DevOps & Cloud
+### DevOps, Cloud & Tooling
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/amazonaws.svg" width="40" alt="AWS"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
 ### Databases
@@ -55,10 +76,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
+</td>
+</tr>
+</table>
 
-### Tooling
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
+
+
 
