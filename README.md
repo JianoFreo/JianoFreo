@@ -25,8 +25,9 @@ engineering to innovate and optimize.
 - Full stack web application development
 - Machine learning systems and ML-powered SaaS products
 - Cloud-native architectures and containerized deployments
-- AI-assisted engineering workflows
+- AI and automation engineering workflows
 - Data analytics, system integration, and automation
+- Projects and research about AI deep learning
 
 </td>
 <td align="center">
