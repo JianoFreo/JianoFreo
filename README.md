@@ -79,5 +79,9 @@ engineering to innovate and optimize.
 </td>
 </tr>
 </table>
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jianofreo&theme=dracula&v=4" alt="Top Langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jianofreo&theme=dracula&v=2" alt="Stats"/>
+</div>
 
 
