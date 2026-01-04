@@ -5,15 +5,33 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI+Machine+Learning;Software+Engineer;Cloud+Computing;SaaS+Developer">
 </p>
 
-<!-- Stats & Top Languages side by side -->
-<div align="center" style="display:flex; justify-content:center; gap:20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jianofreo&theme=dracula&v=4" alt="Top Langs"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jianofreo&theme=dracula&v=2" alt="Stats"/>
-</div>
+<div align="center">
+<table>
+<tr>
+<td>
+<pre style="text-align: center; font-family: monospace; font-size: 60px ">
+I build scalable, production-ready
+software systems at the intersection
+of machine learning, data, and full-stack
+engineering. My work focuses
+on reliability, automation,
+and leveraging AI machine learning
+engineering to innovate and optimize.
+</pre>
 
-<!-- Skills Section -->
-<h3 align="center">Languages</h3>
-<p align="center">
+  
+---
+
+- Full stack web application development
+- Machine learning systems and ML-powered SaaS products
+- Cloud-native architectures and containerized deployments
+- AI-assisted engineering workflows
+- Data analytics, system integration, and automation
+
+</td>
+<td align="center">
+### Languages
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
@@ -25,32 +43,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
+### Frontend
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
-<h3 align="center">Backend</h3>
-<p align="center">
+### Backend
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
-
-<h3 align="center">Machine Learning / AI</h3>
-<p align="center">
+### Machine Learning / AI
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
-</p>
 
-<h3 align="center">DevOps, Cloud & Tooling</h3>
-<p align="center">
+
+### DevOps, Cloud & Tooling
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/amazonaws.svg" width="40" alt="AWS"/>
@@ -58,13 +75,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
-<h3 align="center">Databases</h3>
-<p align="center">
+### Databases
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
-
-
+</td>
+</tr>
+</table>
 
 
