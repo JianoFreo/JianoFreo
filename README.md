@@ -9,16 +9,9 @@
 <table>
 <tr>
 <td>
-<pre style="text-align: center; font-family: monospace; font-size: 60px ">
-I build scalable, production-ready
-software systems at the intersection
-of machine learning, data, and full-stack
-engineering. My work focuses
-on reliability, automation,
-and leveraging AI machine learning
-engineering to innovate and optimize.
-</pre>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JianoFreo&theme=github_dark&utcOffset=8" />
+</p>
   
 ---
 
@@ -80,8 +73,10 @@ engineering to innovate and optimize.
 </tr>
 </table>
 <div align="center" style="display:flex; justify-content:center; gap:20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jianofreo&theme=dracula&v=4" alt="Top Langs"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jianofreo&theme=dracula&v=2" alt="Stats"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JianoFreo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JianoFreo&theme=github_dark" />
+</p>
 </div>
 
 
