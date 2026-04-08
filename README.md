@@ -38,14 +38,14 @@
 ### Frontend & Backend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kivy-4B8BBE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Machine Learning / AI
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/CatBoost-2E5AAC?style=for-the-badge&logo=catboost&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5A5A5A?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5A5A5A?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ### DevOps, Cloud, Database & Tooling
