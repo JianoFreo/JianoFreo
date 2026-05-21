@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there, I'm Jiano Freo!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Jiano Freo
 </h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&color=58A6FF&center=true&vCenter=true&width=1000&lines=AI+Machine+Learning;Software+Engineering;Data+Engineering;Cloud+Computing">
