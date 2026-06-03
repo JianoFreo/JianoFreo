@@ -5,7 +5,8 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:20px;">
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JianoFreo&theme=github_dark"/>
+  <img width="431" height="275" alt="image-removebg-preview (6)" src="https://github.com/user-attachments/assets/d634f9dd-654d-4ce8-9409-69c88a1fe340" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JianoFreo&theme=github_dark" />
 </p>
 </div>
